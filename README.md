@@ -8,3 +8,6 @@ Ensure 2FA is disabled: Please disable Two-Factor Authentication for the Discord
 Alternative Account: If you prefer to keep 2FA enabled for security reasons, consider using a separate Discord account without 2FA enabled specifically for this script.
 
 We apologize for any inconvenience this may cause and appreciate your understanding.
+
+Install Python 3.6 : https://www.python.org/downloads/release/python-360/
+Or Latest Version : https://www.python.org/
