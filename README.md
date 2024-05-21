@@ -10,4 +10,5 @@ Alternative Account: If you prefer to keep 2FA enabled for security reasons, con
 We apologize for any inconvenience this may cause and appreciate your understanding.
 
 Install Python 3.6 : https://www.python.org/downloads/release/python-360/
+
 Or Latest Version : https://www.python.org/
